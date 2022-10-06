@@ -1,0 +1,16 @@
+.chart-1 {
+  background-color: rgba(170, 181, 75, 0.581);
+
+  width: 200px;
+  border-radius: 10px;
+}
+.chart-2 {
+  background-color: rgb(113, 114, 116);
+  width: 200px;
+  border-radius: 10px;
+}
+.chart-3 {
+  background-color: aquamarine;
+  width: 200px;
+  border-radius: 10px;
+}

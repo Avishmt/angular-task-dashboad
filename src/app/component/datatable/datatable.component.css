@@ -1,0 +1,27 @@
+table {
+  width: 100%;
+}
+
+.mat-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+th {
+  background-color: rgb(154, 151, 151);
+  font-size: large;
+}
+
+th,
+td {
+  width: 25%;
+}
+.input {
+  padding: 5px;
+}
+input {
+  width: 600px;
+  height: 40px;
+}
+.container {
+  background-color: rgb(154, 151, 151);
+}
