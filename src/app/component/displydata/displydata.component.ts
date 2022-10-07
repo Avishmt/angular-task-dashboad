@@ -1,6 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 import Userjson from 'users.json';
-
 interface USERS {
   id: number;
   date: string;
